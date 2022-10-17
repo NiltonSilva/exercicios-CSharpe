@@ -1,0 +1,15 @@
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\2º questao\2º questao\bin\Debug\net6.0\2º questao.exe
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\2º questao\2º questao\bin\Debug\net6.0\2º questao.deps.json
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\2º questao\2º questao\bin\Debug\net6.0\2º questao.runtimeconfig.json
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\2º questao\2º questao\bin\Debug\net6.0\2º questao.dll
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\2º questao\2º questao\bin\Debug\net6.0\2º questao.pdb
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\2º questao\2º questao\obj\Debug\net6.0\2º questao.csproj.AssemblyReference.cache
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\2º questao\2º questao\obj\Debug\net6.0\2º questao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\2º questao\2º questao\obj\Debug\net6.0\2º questao.AssemblyInfoInputs.cache
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\2º questao\2º questao\obj\Debug\net6.0\2º questao.AssemblyInfo.cs
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\2º questao\2º questao\obj\Debug\net6.0\2º questao.csproj.CoreCompileInputs.cache
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\2º questao\2º questao\obj\Debug\net6.0\2º questao.dll
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\2º questao\2º questao\obj\Debug\net6.0\refint\2º questao.dll
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\2º questao\2º questao\obj\Debug\net6.0\2º questao.pdb
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\2º questao\2º questao\obj\Debug\net6.0\2º questao.genruntimeconfig.cache
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\2º questao\2º questao\obj\Debug\net6.0\ref\2º questao.dll

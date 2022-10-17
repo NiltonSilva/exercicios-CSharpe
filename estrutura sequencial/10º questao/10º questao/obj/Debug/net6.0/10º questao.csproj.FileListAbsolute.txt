@@ -1,0 +1,15 @@
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\10º questao\10º questao\bin\Debug\net6.0\10º questao.exe
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\10º questao\10º questao\bin\Debug\net6.0\10º questao.deps.json
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\10º questao\10º questao\bin\Debug\net6.0\10º questao.runtimeconfig.json
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\10º questao\10º questao\bin\Debug\net6.0\10º questao.dll
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\10º questao\10º questao\bin\Debug\net6.0\10º questao.pdb
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\10º questao\10º questao\obj\Debug\net6.0\10º questao.csproj.AssemblyReference.cache
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\10º questao\10º questao\obj\Debug\net6.0\10º questao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\10º questao\10º questao\obj\Debug\net6.0\10º questao.AssemblyInfoInputs.cache
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\10º questao\10º questao\obj\Debug\net6.0\10º questao.AssemblyInfo.cs
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\10º questao\10º questao\obj\Debug\net6.0\10º questao.csproj.CoreCompileInputs.cache
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\10º questao\10º questao\obj\Debug\net6.0\10º questao.dll
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\10º questao\10º questao\obj\Debug\net6.0\refint\10º questao.dll
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\10º questao\10º questao\obj\Debug\net6.0\10º questao.pdb
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\10º questao\10º questao\obj\Debug\net6.0\10º questao.genruntimeconfig.cache
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\10º questao\10º questao\obj\Debug\net6.0\ref\10º questao.dll

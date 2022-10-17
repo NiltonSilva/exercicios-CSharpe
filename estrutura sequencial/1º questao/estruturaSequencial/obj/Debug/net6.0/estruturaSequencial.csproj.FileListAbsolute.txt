@@ -1,0 +1,15 @@
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\estruturaSequencial\estruturaSequencial\bin\Debug\net6.0\estruturaSequencial.exe
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\estruturaSequencial\estruturaSequencial\bin\Debug\net6.0\estruturaSequencial.deps.json
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\estruturaSequencial\estruturaSequencial\bin\Debug\net6.0\estruturaSequencial.runtimeconfig.json
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\estruturaSequencial\estruturaSequencial\bin\Debug\net6.0\estruturaSequencial.dll
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\estruturaSequencial\estruturaSequencial\bin\Debug\net6.0\estruturaSequencial.pdb
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\estruturaSequencial\estruturaSequencial\obj\Debug\net6.0\estruturaSequencial.csproj.AssemblyReference.cache
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\estruturaSequencial\estruturaSequencial\obj\Debug\net6.0\estruturaSequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\estruturaSequencial\estruturaSequencial\obj\Debug\net6.0\estruturaSequencial.AssemblyInfoInputs.cache
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\estruturaSequencial\estruturaSequencial\obj\Debug\net6.0\estruturaSequencial.AssemblyInfo.cs
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\estruturaSequencial\estruturaSequencial\obj\Debug\net6.0\estruturaSequencial.csproj.CoreCompileInputs.cache
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\estruturaSequencial\estruturaSequencial\obj\Debug\net6.0\estruturaSequencial.dll
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\estruturaSequencial\estruturaSequencial\obj\Debug\net6.0\refint\estruturaSequencial.dll
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\estruturaSequencial\estruturaSequencial\obj\Debug\net6.0\estruturaSequencial.pdb
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\estruturaSequencial\estruturaSequencial\obj\Debug\net6.0\estruturaSequencial.genruntimeconfig.cache
+C:\Users\nsfma\Documents\ws-c#\lista exercicios\estrutura sequencial\estruturaSequencial\estruturaSequencial\obj\Debug\net6.0\ref\estruturaSequencial.dll
